@@ -16,14 +16,14 @@
     npm install
     ```
 
-### Как использовать:
+## Как использовать:
 
 Запустите программу:
 ```bash
 node index.js
 ```
 
-#### Лицензия
+## Лицензия
 TaskMaster использует [MIT License](LICENSE.md)
 
 
