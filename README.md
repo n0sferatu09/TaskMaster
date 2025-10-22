@@ -36,5 +36,5 @@ TaskMaster использует [MIT License](LICENSE.md)
 
 ## Как помочь проекту?
 
-Ознакомтесь с [CONTRIBUTING.md](CONTRIBUTING.md)
+Ознакомьтесь с [CONTRIBUTING.md](CONTRIBUTING.md)
 
