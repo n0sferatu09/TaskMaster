@@ -18,9 +18,13 @@
 
 ### Как использовать:
 
-    ```bash
-    node index.js
-    ```
+Запустите программу:
+```bash
+node index.js
+```
+
+#### Лицензия
+TaskMaster использует [MIT License](LICENSE.md)
 
 
 
